@@ -1,4 +1,4 @@
-###The sample is for consuming data from MSK and writing to Redshift, including nested json processing.
+The sample is for consuming data from MSK and writing to Redshift, including nested json processing.
 
 
 ## Data Producer
